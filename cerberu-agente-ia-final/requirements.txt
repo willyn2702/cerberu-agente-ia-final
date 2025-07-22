@@ -1,0 +1,12 @@
+streamlit
+openai
+pandas
+matplotlib
+openpyxl
+pyttsx3
+psycopg2-binary
+python-dotenv
+SpeechRecognition
+flask
+flask-cors
+gunicorn
